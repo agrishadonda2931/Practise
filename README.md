@@ -6,4 +6,4 @@ I am Agrisha Donda
 I am Python Developer
 <br>
 I live in surat
-My contry is India.
+My hobby is art
