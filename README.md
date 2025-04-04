@@ -5,5 +5,5 @@ I am Agrisha Donda
 <br>
 I am Python Developer
 <br>
-I live in surat
+
 My hobby is art
